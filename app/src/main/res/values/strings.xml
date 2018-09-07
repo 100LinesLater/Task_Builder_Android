@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="action_settings">Settings</string>
+    <string name="task_titleLabel">Title:</string>
+    <string name="task_descLabel">Short Description:</string>
+    <string name="task_dateLabel">Due Date:</string>
+    <string name="task_adtnlInfoLabel">Additional Info:</string>
+    <string name="hint_title">task name here</string>
+    <string name="hint_date">ex: April 1, 2018</string>
+    <string name="save">Save Task</string>
+
+    <string name="alert_title">Info Missing</string>
+    <string name="alert_message">Please enter title name, short description, due date, and additional info</string>
+
+</resources>
